@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{787F319A-0C9B-4762-9F45-6721AAEDBC7B}|1150080150_DuongNguyen.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{787F319A-0C9B-4762-9F45-6721AAEDBC7B}|1150080150_DuongNguyen.csproj|c:\\users\\duong\\hoc\\b\u00E0i t\u1EADp th\u1EE9 2\\1150080150_duongnguyen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{787F319A-0C9B-4762-9F45-6721AAEDBC7B}|1150080150_DuongNguyen.csproj|C:\\Users\\duong\\Hoc\\B\u00E0i t\u1EADp th\u1EE9 2\\1150080150_DuongNguyen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{787F319A-0C9B-4762-9F45-6721AAEDBC7B}|1150080150_DuongNguyen.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{787F319A-0C9B-4762-9F45-6721AAEDBC7B}|1150080150_DuongNguyen.csproj|c:\\users\\duong\\hoc\\b\u00E0i t\u1EADp th\u1EE9 2\\1150080150_duongnguyen\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{787F319A-0C9B-4762-9F45-6721AAEDBC7B}|1150080150_DuongNguyen.csproj|C:\\Users\\duong\\Hoc\\B\u00E0i t\u1EADp th\u1EE9 2\\1150080150_DuongNguyen\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{787F319A-0C9B-4762-9F45-6721AAEDBC7B}|1150080150_DuongNguyen.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{787F319A-0C9B-4762-9F45-6721AAEDBC7B}|1150080150_DuongNguyen.csproj|c:\\users\\duong\\hoc\\b\u00E0i t\u1EADp th\u1EE9 2\\1150080150_duongnguyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{787F319A-0C9B-4762-9F45-6721AAEDBC7B}|1150080150_DuongNguyen.csproj|C:\\Users\\duong\\Hoc\\B\u00E0i t\u1EADp th\u1EE9 2\\1150080150_DuongNguyen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{787F319A-0C9B-4762-9F45-6721AAEDBC7B}|1150080150_DuongNguyen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -41,8 +41,7 @@
               "ToolTip": "C:\\Users\\duong\\Hoc\\B\u00E0i t\u1EADp th\u1EE9 2\\1150080150_DuongNguyen\\Form1.resx",
               "RelativeToolTip": "Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-09-29T06:15:37.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T06:15:37.281Z"
             },
             {
               "$type": "Document",
@@ -66,8 +65,7 @@
               "ToolTip": "C:\\Users\\duong\\Hoc\\B\u00E0i t\u1EADp th\u1EE9 2\\1150080150_DuongNguyen\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T06:14:07.347Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-29T06:14:07.347Z"
             },
             {
               "$type": "Document",
@@ -79,8 +77,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T06:09:36.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T06:09:36.932Z"
             }
           ]
         }
