@@ -1,7 +1,0 @@
-C:\Users\duong\Hoc\Bài tập thứ 2\1150080150_DuongNguyenn\bin\Debug\1150080150_DuongNguyenn.exe.config
-C:\Users\duong\Hoc\Bài tập thứ 2\1150080150_DuongNguyenn\bin\Debug\1150080150_DuongNguyenn.exe
-C:\Users\duong\Hoc\Bài tập thứ 2\1150080150_DuongNguyenn\bin\Debug\1150080150_DuongNguyenn.pdb
-C:\Users\duong\Hoc\Bài tập thứ 2\1150080150_DuongNguyenn\obj\Debug\1150080150_DuongNguyenn.csproj.AssemblyReference.cache
-C:\Users\duong\Hoc\Bài tập thứ 2\1150080150_DuongNguyenn\obj\Debug\1150080150_DuongNguyenn.csproj.CoreCompileInputs.cache
-C:\Users\duong\Hoc\Bài tập thứ 2\1150080150_DuongNguyenn\obj\Debug\1150080150_DuongNguyenn.exe
-C:\Users\duong\Hoc\Bài tập thứ 2\1150080150_DuongNguyenn\obj\Debug\1150080150_DuongNguyenn.pdb
