@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyenn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{182C6188-1A48-46CA-8B45-BBBD0C8CF4B0}|..\\1150080150_DuongNguyennnnnn\\1150080150_DuongNguyennnnnn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennnnnn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C6188-1A48-46CA-8B45-BBBD0C8CF4B0}|..\\1150080150_DuongNguyennnnnn\\1150080150_DuongNguyennnnnn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennnnnn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C6188-1A48-46CA-8B45-BBBD0C8CF4B0}|..\\1150080150_DuongNguyennnnnn\\1150080150_DuongNguyennnnnn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennnnnn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64359CF0-675D-4AEE-B2B5-47976417A230}|..\\1150080150_DuongNguyennnnn\\1150080150_DuongNguyennnnn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennnnn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64359CF0-675D-4AEE-B2B5-47976417A230}|..\\1150080150_DuongNguyennnnn\\1150080150_DuongNguyennnnn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennnnn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64359CF0-675D-4AEE-B2B5-47976417A230}|..\\1150080150_DuongNguyennnnn\\1150080150_DuongNguyennnnn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennnnn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948B6C2-CC5C-41F9-BC66-7026B026DD65}|..\\1150080150_DuongNguyennnn\\1150080150_DuongNguyennnn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennnn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948B6C2-CC5C-41F9-BC66-7026B026DD65}|..\\1150080150_DuongNguyennnn\\1150080150_DuongNguyennnn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennnn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948B6C2-CC5C-41F9-BC66-7026B026DD65}|..\\1150080150_DuongNguyennnn\\1150080150_DuongNguyennnn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennnn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750A9377-0916-4B0A-8EBD-9E176A9846F2}|..\\1150080150_DuongNguyennn\\1150080150_DuongNguyennn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750A9377-0916-4B0A-8EBD-9E176A9846F2}|..\\1150080150_DuongNguyennn\\1150080150_DuongNguyennn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750A9377-0916-4B0A-8EBD-9E176A9846F2}|..\\1150080150_DuongNguyennn\\1150080150_DuongNguyennn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750A9377-0916-4B0A-8EBD-9E176A9846F2}|..\\1150080150_DuongNguyennn\\1150080150_DuongNguyennn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyennn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B701B3FF-B2C7-4409-A72D-2DD371A3C675}|1150080150_DuongNguyenn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyenn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B701B3FF-B2C7-4409-A72D-2DD371A3C675}|1150080150_DuongNguyenn.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B701B3FF-B2C7-4409-A72D-2DD371A3C675}|1150080150_DuongNguyenn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyenn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B701B3FF-B2C7-4409-A72D-2DD371A3C675}|1150080150_DuongNguyenn.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B701B3FF-B2C7-4409-A72D-2DD371A3C675}|1150080150_DuongNguyenn.csproj|c:\\users\\duong\\hoc\\test\\1150080150_duongnguyenn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B701B3FF-B2C7-4409-A72D-2DD371A3C675}|1150080150_DuongNguyenn.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnnnn\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennnnnn\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnnnn\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennnnnn\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:31:33.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnnnn\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennnnnn\\Form1.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnnnn\\Form1.cs",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennnnnn\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:31:26.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnnnn\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennnnnn\\Form1.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnnnn\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennnnnn\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:31:17.876Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnnn\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennnnn\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnnn\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennnnn\\Form1.Designer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:23:01.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnnn\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennnnn\\Form1.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnnn\\Form1.cs",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennnnn\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:22:57.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnnn\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennnnn\\Form1.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnnn\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennnnn\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:22:51.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnn\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennnn\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnn\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennnn\\Form1.Designer.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:19:41.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnn\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennnn\\Form1.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnn\\Form1.cs",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennnn\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:19:04.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnn\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennnn\\Form1.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennnn\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennnn\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:18:52.224Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennn\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennn\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennn\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennn\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:14:07.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennn\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennn\\Form1.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennn\\Form1.cs",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennn\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:14:02.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennn\\Program.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennn\\Program.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennn\\Program.cs",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennn\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:12:53.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennn\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\1150080150_DuongNguyennn\\Form1.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyennn\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\1150080150_DuongNguyennn\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:12:43.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyenn\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyenn\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:59:30.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyenn\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyenn\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:59:23.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyenn\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\duong\\Hoc\\Test\\1150080150_DuongNguyenn\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T05:55:31.856Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

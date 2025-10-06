@@ -1,0 +1,10 @@
+C:\Users\duong\Hoc\Test\1150080150_DuongNguyennnnnn\bin\Debug\1150080150_DuongNguyennnnnn.exe.config
+C:\Users\duong\Hoc\Test\1150080150_DuongNguyennnnnn\bin\Debug\1150080150_DuongNguyennnnnn.exe
+C:\Users\duong\Hoc\Test\1150080150_DuongNguyennnnnn\bin\Debug\1150080150_DuongNguyennnnnn.pdb
+C:\Users\duong\Hoc\Test\1150080150_DuongNguyennnnnn\obj\Debug\1150080150_DuongNguyennnnnn.csproj.AssemblyReference.cache
+C:\Users\duong\Hoc\Test\1150080150_DuongNguyennnnnn\obj\Debug\_1150080150_DuongNguyennnnnn.Form1.resources
+C:\Users\duong\Hoc\Test\1150080150_DuongNguyennnnnn\obj\Debug\_1150080150_DuongNguyennnnnn.Properties.Resources.resources
+C:\Users\duong\Hoc\Test\1150080150_DuongNguyennnnnn\obj\Debug\1150080150_DuongNguyennnnnn.csproj.GenerateResource.cache
+C:\Users\duong\Hoc\Test\1150080150_DuongNguyennnnnn\obj\Debug\1150080150_DuongNguyennnnnn.csproj.CoreCompileInputs.cache
+C:\Users\duong\Hoc\Test\1150080150_DuongNguyennnnnn\obj\Debug\1150080150_DuongNguyennnnnn.exe
+C:\Users\duong\Hoc\Test\1150080150_DuongNguyennnnnn\obj\Debug\1150080150_DuongNguyennnnnn.pdb
